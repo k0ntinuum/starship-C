@@ -1,0 +1,10 @@
+#include <raylib.h>
+#include <stdio.h>
+#include <math.h>
+#include <stdlib.h>
+#include <stdbool.h>
+#include "global.c"
+#include "graphics.c"
+#include "cellular.c"
+#include "respond.c"
+#include "main.c"
